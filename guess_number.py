@@ -1,3 +1,6 @@
+#by muhammad rafif pasya
+#politeknik negeri semarang
+
 def guess_number():
     secret_number = 9
     guess = 0
